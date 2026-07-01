@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6a0016/T/v1
+canonical_location: https://kanripo.org/bkk/KR6a0016/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 尸迦羅越六方禮經
+  identifiers:
+    krp: KR6a0016
+    cbeta: T01n0016
+    cbeta_old_id: T01n0016
+    authorityid: CA0003012
+    json_key: T0016
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0016.xml
+    old_id: T01n0016
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0016_000-T.yaml, hash: 'sha256:85fee1917053966a749a37a3e69fb32c3b27fa4761d890b6b67d87e06ae9bce2'}
+  - {seq: 1, filename: KR6a0016_001-T.yaml, hash: 'sha256:cb08b7c9f39457ea8be6edae1fcc0ae646927255ba0d2043305daec1fb0707bd'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6a0016_000-T.markers.yaml, hash: 'sha256:30bc0c65ea6dd80e21f29bf8b6fea6068707312e451e401ebdb8f3885f7cc963'}
+  - {seq: 1, role: markers, filename: assets/KR6a0016_001-T.markers.yaml, hash: 'sha256:d5d93d723a153cc6d9f44ed9db3a8cbaacc9417e3dee64fdb925400c31d0c751'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0016_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1863
+  label: 佛說尸迦羅越六方禮經
+  type: juan
+  level: 1
+hash: sha256:7182c18a0959c2e7dae685de41089c4d967a37df2ea1adba216724d8f258181b

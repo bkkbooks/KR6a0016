@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0016/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 尸迦羅越六方禮經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0016.xml
+    old_id: T01n0016
+hash: sha256:85fee1917053966a749a37a3e69fb32c3b27fa4761d890b6b67d87e06ae9bce2

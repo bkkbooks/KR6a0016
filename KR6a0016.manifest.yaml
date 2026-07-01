@@ -1,0 +1,51 @@
+canonical_identifier: bkk:krp/KR6a0016/v1
+canonical_location: https://kanripo.org/bkk/KR6a0016/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 尸迦羅越六方禮經
+  identifiers:
+    alt_id:
+    - T01n0016
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0016.xml
+    old_id: T01n0016
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0016_000.yaml, hash: 'sha256:85fee1917053966a749a37a3e69fb32c3b27fa4761d890b6b67d87e06ae9bce2'}
+  - {seq: 1, filename: KR6a0016_001.yaml, hash: 'sha256:7af5e891346ca876bf4b1f8504f52aa6b0f8538cf52007c86bc01a6fcd3726d2'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6a0016_001.markers.yaml, hash: 'sha256:4d50f514e8a775ed7a274b32d5c39b6c3666c6af7a78553c2ff5c42ae0588329'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0016_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1863
+  label: 佛說尸迦羅越六方禮經
+  type: juan
+  level: 1
+hash: sha256:8df6e899f226f79984f82685efded49b76b570b4fe3ce450eb6d7285b702ef9c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
