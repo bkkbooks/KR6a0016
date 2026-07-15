@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6a0016/v1
 canonical_location: https://kanripo.org/bkk/KR6a0016/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 尸迦羅越六方禮經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0016_000.yaml, hash: 'sha256:85fee1917053966a749a37a3e69fb32c3b27fa4761d890b6b67d87e06ae9bce2'}
-  - {seq: 1, filename: KR6a0016_001.yaml, hash: 'sha256:cb08b7c9f39457ea8be6edae1fcc0ae646927255ba0d2043305daec1fb0707bd'}
+  - {seq: 1, filename: KR6a0016_001.yaml, hash: 'sha256:6cab6f8d470cef707ac3f6292425fd686efae84503d2e62a28af5ecb342a247d'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6a0016_000.markers.yaml, hash: 'sha256:72513e2d372a8fee6a0005cd36c11d7240b1ac94538d22393244ca5b0db4b966'}
-  - {seq: 1, role: markers, filename: assets/KR6a0016_001.markers.yaml, hash: 'sha256:cb71ec8d5b98357665bbef6068ba463969be7f68f354fb764805fedeca8e1cc2'}
+  - {seq: 1, role: markers, filename: assets/KR6a0016_001.markers.yaml, hash: 'sha256:ec58e65311717d032e2cfc8b140302db0c978ad277aec720398b83150aefde9b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 佛說尸迦羅越六方禮經
   type: juan
   level: 1
-hash: sha256:872b20f80b6c57d5fc4696eb63acc9fb7119bdeaca3a55a870c8c5ad1efdb986
+hash: sha256:6edd3052fca8018c82234a2df743e26f9c79d881bf317033f4efc42666a956d2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
