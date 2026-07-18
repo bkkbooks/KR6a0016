@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6a0016_000-T.yaml, hash: 'sha256:85fee1917053966a749a37a3e69fb32c3b27fa4761d890b6b67d87e06ae9bce2'}
   - {seq: 1, filename: KR6a0016_001-T.yaml, hash: 'sha256:cb08b7c9f39457ea8be6edae1fcc0ae646927255ba0d2043305daec1fb0707bd'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0016_000-T.markers.yaml, hash: 'sha256:30bc0c65ea6dd80e21f29bf8b6fea6068707312e451e401ebdb8f3885f7cc963'}
+  - {seq: 0, role: markers, filename: assets/KR6a0016_000-T.markers.yaml, hash: 'sha256:be172181a99cde0e7adf79f5375fd340ff3ca25ae2ecba9c53d46a180c452cfb'}
   - {seq: 1, role: markers, filename: assets/KR6a0016_001-T.markers.yaml, hash: 'sha256:d5d93d723a153cc6d9f44ed9db3a8cbaacc9417e3dee64fdb925400c31d0c751'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 佛說尸迦羅越六方禮經
   type: juan
   level: 1
-hash: sha256:7182c18a0959c2e7dae685de41089c4d967a37df2ea1adba216724d8f258181b
+hash: sha256:542cd4d1f3d5071827267f2d90b949ea808c5cb49a221b3bf9d40eb56e4f60bc
